@@ -8,6 +8,3 @@ print("To demonstrate functionality of the SQL tables, this script automatically
 SELECT * FROM manufacturers;
 SELECT * FROM repairs;
 SELECT * FORM prospective_customers;
-
-cur.close()
-conn.close()
